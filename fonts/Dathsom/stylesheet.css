@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Dathsom';
+    src: url('Dathsom.eot');
+    src: local('Dathsom'),
+        url('Dathsom.eot?#iefix') format('embedded-opentype'),
+        url('Dathsom.woff2') format('woff2'),
+        url('Dathsom.woff') format('woff'),
+        url('Dathsom.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
